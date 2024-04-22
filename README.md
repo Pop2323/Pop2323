@@ -8,9 +8,9 @@
 
 <div align="center">
      
-     🌱 I’m currently learning **Ml, NLP**
+🌱 I’m currently learning **Ml, NLP**
      
-     💬 Ask me about **Networking, Cybersecurity, Ethical Hacking, Linux OS, Node.js, React, Tailwind, HTML, CSS, Python...**
+💬 Ask me about **Networking, Cybersecurity, Ethical Hacking, Linux OS, Node.js, React, Tailwind, HTML, CSS, Python...**
      
 </div>
 
@@ -19,3 +19,18 @@
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
        </a>
 </div>
+
+<hr/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=ubuntu" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,tailwind,vscode,postman,github,figma,tailwind,git,bash" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,c,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=ai,ps,pr,xd" />
+</div>
+
+<br/>
+<hr/>
+
