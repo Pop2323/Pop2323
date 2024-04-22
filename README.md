@@ -39,5 +39,9 @@
 <h2 align="center">Badges</h2>
 
 <div align="center">
-     ![alt text](https://github.com/Pop2323/Pop2323/tree/main/Icons/threat_analysis_4.png)
+     <img src="Icons/threat_analysis_4.png" alt="Cisco_threat_analysis">
+     <img src="Icons/system_safeguards_5.png" alt="Cisco_system_safeguards">
+     <img src="Icons/resource_specialist_7.png" alt="Cisco_resource_specialist">
+     <img src="Icons/network_defense_6.png" alt="Cisco_network_defense">
+     <img src="Icons/introduction-to-cybersecurity.png" alt="introduction-to-cybersecurity.png">
 </div>
