@@ -1,5 +1,5 @@
 <h1 align="center" color=white>
-     <img src="https://readme-typing-svg.herokuapp.com/?color=white&font=Georgia&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Omar!;"/>
+     <img src="https://readme-typing-svg.herokuapp.com/?color=white&font=Georgia&size=35&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Hi+There!+👋;+I'm+Omar!;"/>
 </h1>
 
 <h3 align="center">A passionate cyber security and software developer.</h3>
@@ -38,7 +38,7 @@
 
 <h2 align="center">Badges</h2>
 
-<div align="center" display="flex">
+<div align="center" display="flex" jusyify="between">
      <img src="Icons/threat_analysis_4.png"  width="70px" height="70px" alt="Cisco_threat_analysis">
      <img src="Icons/system_safeguards_5.png" alt="Cisco_system_safeguards"  width="70px" height="70px">
      <img src="Icons/resource_specialist_7.png" alt="Cisco_resource_specialist"  width="70px" height="70px">
