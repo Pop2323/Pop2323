@@ -38,7 +38,7 @@
 
 <h2 align="center">Badges</h2>
 
-<div align="center" display="flex" jusyify="between">
+<div align="center" display="flex" padding="10px" margin="10px">
      <img src="Icons/threat_analysis_4.png"  width="70px" height="70px" alt="Cisco_threat_analysis">
      <img src="Icons/system_safeguards_5.png" alt="Cisco_system_safeguards"  width="70px" height="70px">
      <img src="Icons/resource_specialist_7.png" alt="Cisco_resource_specialist"  width="70px" height="70px">
