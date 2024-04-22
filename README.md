@@ -39,5 +39,5 @@
 <h2 align="center">Badges</h2>
 
 <div align="center">
-     ![alt text](./icons/threat_analysis_4.png)
+     ![alt text](https://github.com/Pop2323/Pop2323/tree/main/Icons/threat_analysis_4.png)
 </div>
