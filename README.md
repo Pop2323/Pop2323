@@ -27,7 +27,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=ubuntu" /><br>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,tailwind,vscode,postman,github,figma,tailwind,git,bash" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,c,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,c" /><br>
     <img src="https://skillicons.dev/icons?i=ai,ps,pr,xd" />
 </div>
 
