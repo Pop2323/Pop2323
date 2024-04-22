@@ -43,5 +43,13 @@
      <img src="Icons/system_safeguards_5.png" alt="Cisco_system_safeguards"  width="70px" height="70px">
      <img src="Icons/resource_specialist_7.png" alt="Cisco_resource_specialist"  width="70px" height="70px">
      <img src="Icons/network_defense_6.png" alt="Cisco_network_defense"  width="70px" height="70px">
-     <img src="Icons/introduction-to-cybersecurity.png" alt="introduction-to-cybersecurity.png"  width="70px" height="70px">
+</div>
+
+<img src="Icons/introduction-to-cybersecurity.png" alt="introduction-to-cybersecurity.png"  width="70px" height="70px">
+
+<div align="center" display="flex">
+     <img src="Icons/cybersecurity_administration_3.png"  width="70px" height="70px" alt="cybersecurity_administration">
+     <img src="Icons/Wireless_Networks_Penetration_Testing.png" alt="Wireless_Networks_Penetration_Testing"  width="70px" height="70px">
+     <img src="Icons/Malware_Analysis_Fundamentals.png" alt="Malware_Analysis_Fundamentals"  width="70px" height="70px">
+     <img src="Icons/Ethical_Hacking_Badge_20_May_2023_95a113c0.png" alt="Ethical_Hacking"  width="70px" height="70px">
 </div>
