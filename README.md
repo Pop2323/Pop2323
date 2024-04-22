@@ -39,9 +39,9 @@
 <h2 align="center">Badges</h2>
 
 <div align="center" display="flex">
-     <img src="Icons/threat_analysis_4.png"  width="480px" height="480px" alt="Cisco_threat_analysis">
-     <img src="Icons/system_safeguards_5.png" alt="Cisco_system_safeguards"  width="480px" height="480px">
-     <img src="Icons/resource_specialist_7.png" alt="Cisco_resource_specialist"  width="480px" height="480px">
-     <img src="Icons/network_defense_6.png" alt="Cisco_network_defense"  width="1480px" height="480px">
-     <img src="Icons/introduction-to-cybersecurity.png" alt="introduction-to-cybersecurity.png"  width="480px" height="480px">
+     <img src="Icons/threat_analysis_4.png"  width="280px" height="280px" alt="Cisco_threat_analysis">
+     <img src="Icons/system_safeguards_5.png" alt="Cisco_system_safeguards"  width="280px" height="280px">
+     <img src="Icons/resource_specialist_7.png" alt="Cisco_resource_specialist"  width="280px" height="280px">
+     <img src="Icons/network_defense_6.png" alt="Cisco_network_defense"  width="280px" height="280px">
+     <img src="Icons/introduction-to-cybersecurity.png" alt="introduction-to-cybersecurity.png"  width="280px" height="280px">
 </div>
