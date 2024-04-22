@@ -26,7 +26,7 @@
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=ubuntu" /><br>
+    <img src="https://skillicons.dev/icons?i=ubuntu"/><br>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,tailwind,vscode,postman,github,figma,tailwind,git,bash" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,c" /><br>
     <img src="https://skillicons.dev/icons?i=ai,ps,pr,xd" />
@@ -38,10 +38,10 @@
 
 <h2 align="center">Badges</h2>
 
-<div align="center">
-     <img src="Icons/threat_analysis_4.png" alt="Cisco_threat_analysis">
-     <img src="Icons/system_safeguards_5.png" alt="Cisco_system_safeguards">
-     <img src="Icons/resource_specialist_7.png" alt="Cisco_resource_specialist">
-     <img src="Icons/network_defense_6.png" alt="Cisco_network_defense">
-     <img src="Icons/introduction-to-cybersecurity.png" alt="introduction-to-cybersecurity.png">
+<div align="center" display="flex">
+     <img src="Icons/threat_analysis_4.png"  width="480px" height="480px" alt="Cisco_threat_analysis">
+     <img src="Icons/system_safeguards_5.png" alt="Cisco_system_safeguards"  width="480px" height="480px">
+     <img src="Icons/resource_specialist_7.png" alt="Cisco_resource_specialist"  width="480px" height="480px">
+     <img src="Icons/network_defense_6.png" alt="Cisco_network_defense"  width="1480px" height="480px">
+     <img src="Icons/introduction-to-cybersecurity.png" alt="introduction-to-cybersecurity.png"  width="480px" height="480px">
 </div>
