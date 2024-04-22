@@ -33,5 +33,11 @@
 </div>
 
 <br/>
+
 <hr/>
 
+<h2 align="center">Badges</h2>
+
+<div align="center">
+     ![alt text](./icons/threat_analysis_4.png)
+</div>
