@@ -1,4 +1,4 @@
-<h1 align="center" color="red">
+<h1 align="center" style="color: red;">
      <img src="https://readme-typing-svg.herokuapp.com/?font=Georgia&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omar+Morsi!;"/>
 </h1>
 
