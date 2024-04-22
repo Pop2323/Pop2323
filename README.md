@@ -1,5 +1,8 @@
-### Hi there Omar Morsi👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=red&font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omar+Morsi!;" />
+</h1>
 
+<h3 align="center">A passionate Cyber Security and software developer</h3>
 <!--
 **Pop2323/Pop2323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
