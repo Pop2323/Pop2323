@@ -38,7 +38,7 @@
 
 <h2 align="center">Badges</h2>
 
-<div align="center" display="flex" padding="10px" margin="10px">
+<div align="center" display="flex">
      <img src="Icons/threat_analysis_4.png"  width="70px" height="70px" alt="Cisco_threat_analysis">
      <img src="Icons/system_safeguards_5.png" alt="Cisco_system_safeguards"  width="70px" height="70px">
      <img src="Icons/resource_specialist_7.png" alt="Cisco_resource_specialist"  width="70px" height="70px">
@@ -46,7 +46,7 @@
      <img src="Icons/cybersecurity_administration_3.png"  width="70px" height="70px" alt="cybersecurity_administration">
 </div>
 <div align="center">
-<img src="Icons/introduction-to-cybersecurity.png" alt="introduction-to-cybersecurity.png"  width="70px" height="70px">
+<img src="Icons/introduction-to-cybersecurity.png" alt="introduction-to-cybersecurity.png"  width="100px" height="100px">
 </div>
 <div align="center" display="flex">
      <img src="Icons/Ethical_Hacking.png" alt="Ethical_Hacking"  width="70px" height="70px">
