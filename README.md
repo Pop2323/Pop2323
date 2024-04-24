@@ -56,12 +56,4 @@
      <img src="Icons/Ethical_Hacking_Badge_20_May_2023_95a113c0.png" alt="Ethical_Hacking"  width="70px" height="70px">
 </div>
 
-<br>
-
-<div>
-     <ul>
-          <li><a href="https://pop2323.github.io/Omar.github.io/">Front-end</a></li>
-          <li></li>
-          <li></li>
-     </ul>
-</div>
+<hr>
