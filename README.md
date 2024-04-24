@@ -58,9 +58,9 @@
 
 <br>
 
-<div align="center">
+<div>
      <ul>
-          <li><a>https://pop2323.github.io/Omar.github.io/</a></li>
+          <li><a src="https://pop2323.github.io/Omar.github.io/">Front-end</a></li>
           <li></li>
           <li></li>
      </ul>
