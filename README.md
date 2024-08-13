@@ -1,5 +1,5 @@
 <h1 align="center" color=white>
-     <img src="https://readme-typing-svg.herokuapp.com/?color=white&font=Georgia&size=35&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Hi+There!+👋;+I'm+Omar!;"/>
+     <img src="https://readme-typing-svg.herokuapp.com/?color=black&font=Georgia&size=35&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Hi+There!+👋;+I'm+Omar!;"/>
 </h1>
 
 <h3 align="center">A passionate cyber security and software developer.</h3>
