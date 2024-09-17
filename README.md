@@ -29,8 +29,9 @@
 <div align="center">
      <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" width="50px" height="50px"/>
      <img src="https://skillicons.dev/icons?i=ubuntu"/><br>
-     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,tailwind,vscode,postman,github,figma,git,bash" />
-     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,c,dart,flutter" /><br>
+     <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,bootstrap,vscode,postman,github,figma,git" />
+     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,bash,dart,flutter" /><br>
+     <img src="https://skillicons.dev/icons?i=express,mongodb,jwt,helmet,cors" /><br>
      <img src="https://skillicons.dev/icons?i=ai,ps,pr,xd" />
 </div>
 
