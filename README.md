@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/omar-m-735069257/" target="_blank">
-    <img src="https://img.shields.io/badge/-Pop-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-Omar-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -89,7 +89,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pop&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pop2323&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <h2 align="center">📊 GitHub Analytics</h2>
