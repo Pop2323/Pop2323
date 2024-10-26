@@ -95,9 +95,9 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pop&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pop&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pop2323&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pop2323&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <!-- Snake animation -->
-![](https://github.com/Pop2323/Pop2323/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/Pop2323/blob/output/github-contribution-grid-snake.svg)
