@@ -101,4 +101,4 @@
 </p>
 
 <!-- Snake animation -->
-![Snake animation](https://github.com/Pop2323/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Pop2323/Pop2323/blob/output/github-contribution-grid-snake.svg)
