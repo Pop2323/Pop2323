@@ -97,6 +97,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pop2323&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <hr/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pop2323&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
