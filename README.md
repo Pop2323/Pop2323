@@ -110,4 +110,4 @@
 </div>
 
 <!-- Snake animation -->
-![](https://github.com/Pop2323/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/Pop2323/Pop2323/blob/output/github-contribution-grid-snake2.svg)
