@@ -108,6 +108,3 @@
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pop2323&layout=compact&langs_count=8&theme=dark&hide_border=true" alt="Pop2323's Most Used Languages"/>
 </div>
-
-<!-- Snake animation -->
-![snake animation](https://github.com/Pop2323/Pop2323/blob/output/github-contribution-grid-snake2.svg)
