@@ -94,12 +94,21 @@
 </div>
 
 <h2 align="center">📊 GitHub Analytics</h2>
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pop2323&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
   <hr/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pop2323&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
+-->
+
+<!-- Dracula Theme -->
+<
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pop2323&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Pop2323's GitHub Stats"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pop2323&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Pop2323's Most Used Languages"/>
+</div>
 
 <!-- Snake animation -->
 ![](https://github.com/Pop2323/blob/output/github-contribution-grid-snake.svg)
