@@ -89,15 +89,15 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pop2323&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pop2323&theme=tokyonight&hide_border=true" alt="GitHub Streak"/> -->
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Pop2323&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pop2323&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pop2323&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Pop2323&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pop2323&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pop2323&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 <!-- Snake animation -->
