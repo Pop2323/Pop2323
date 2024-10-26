@@ -1,61 +1,104 @@
-<h1 align="center" color=white>
-     <img src="https://readme-typing-svg.herokuapp.com/?color=black&font=Georgia&size=38&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Hi+There!+👋;+I'm+Omar!;"/>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hello+World!+👋;I'm+Omar!;Welcome+to+my+Profile!" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">A passionate cybersecurity and software developer.</h3>
+<h3 align="center">
+  Cybersecurity Specialist & Full-Stack Developer
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</h3>
 
-<br/>
-
-<div align="center">
-     
-🌱 I’m currently learning **Ml, NLP**
-     
-💬 Ask me about **Networking, Cybersecurity, Ethical Hacking, Linux OS, Node.js, React, Tailwind, HTML, CSS, Python...**
-     
-</div>
-
-<div align="center">
-       <a href="https://www.linkedin.com/in/omar-m-735069257/" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-       </a>
-</div>
-
-<hr/>
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-
-<hr/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/omar-m-735069257/" target="_blank">
+    <img src="https://img.shields.io/badge/-Pop-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=pop&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 <div align="center">
-     <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" width="50px" height="50px"/>
-     <img src="https://skillicons.dev/icons?i=ubuntu"/><br>
-     <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,bootstrap,vscode,postman,github,figma,git" /><br>
-     <img src="https://skillicons.dev/icons?i=python,javascript,bash,dart,flutter" /><br>
-     <img src="https://skillicons.dev/icons?i=express,mongodb,nodejs" /><br>
-     <img src="https://skillicons.dev/icons?i=ai,ps,pr,xd" /><br>
+  <h2>🚀 About Me</h2>
+  
+  🔭 Passionate about **Cybersecurity** and **Software Development**
+  
+  🌱 Currently exploring **Machine Learning** and **Natural Language Processing**
+  
+  💡 Open to collaborating on **Security** and **Full-Stack** projects
+  
+  💬 Ask me about:
+  - 🛡️ Cybersecurity & Ethical Hacking
+  - 🐧 Linux Systems
+  - 🌐 Web Development
+  - 🔧 DevOps & Automation
 </div>
 
-<br/>
+<h2 align="center">🛠️ Technology Stack</h2>
 
-<hr/>
-
-<h2 align="center">Badges</h2>
-
-<div align="center" display="flex">
-     <img src="Icons/threat_analysis_4.png"  width="70px" height="70px" alt="Cisco_threat_analysis">
-     <img src="Icons/system_safeguards_5.png" alt="Cisco_system_safeguards"  width="70px" height="70px">
-     <img src="Icons/resource_specialist_7.png" alt="Cisco_resource_specialist"  width="70px" height="70px">
-     <img src="Icons/network_defense_6.png" alt="Cisco_network_defense"  width="70px" height="70px">
-     <img src="Icons/cybersecurity_administration_3.png"  width="70px" height="70px" alt="cybersecurity_administration">
-</div>
+<details open>
+<summary align="center">Click to Toggle</summary>
+<br>
 <div align="center">
-<img src="Icons/introduction-to-cybersecurity.png" alt="introduction-to-cybersecurity.png"  width="100px" height="100px">
+
+**Operating Systems & Tools**
+<p>
+  <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" width="40"/>
+  <img src="https://skillicons.dev/icons?i=ubuntu,vscode,postman,github,git" />
+</p>
+
+**Frontend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,bootstrap,figma" />
+</p>
+
+**Programming Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,bash,dart,flutter" />
+</p>
+
+**Backend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=express,mongodb,nodejs" />
+</p>
+
+**Design Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=ai,ps,pr,xd" />
+</p>
+
 </div>
-<div align="center" display="flex">
-     <img src="Icons/Ethical_Hacking.png" alt="Ethical_Hacking"  width="70px" height="70px">
-     <img src="Icons/Wireless_Networks_Penetration_Testing.png" alt="Wireless_Networks_Penetration_Testing"  width="70px" height="70px">
-     <img src="Icons/Malware_Analysis_Fundamentals.png" alt="Malware_Analysis_Fundamentals"  width="70px" height="70px">
-     <img src="Icons/Ethical_Hacking_Badge_20_May_2023_95a113c0.png" alt="Ethical_Hacking"  width="70px" height="70px">
+</details>
+
+<h2 align="center">🏆 Certifications & Achievements</h2>
+
+<div align="center">
+  <h3>Cisco Certifications</h3>
+  <p>
+    <img src="Icons/threat_analysis_4.png" width="70" alt="Threat Analysis" title="Threat Analysis"/>
+    <img src="Icons/system_safeguards_5.png" width="70" alt="System Safeguards" title="System Safeguards"/>
+    <img src="Icons/resource_specialist_7.png" width="70" alt="Resource Specialist" title="Resource Specialist"/>
+    <img src="Icons/network_defense_6.png" width="70" alt="Network Defense" title="Network Defense"/>
+    <img src="Icons/cybersecurity_administration_3.png" width="70" alt="Cybersecurity Administration" title="Cybersecurity Administration"/>
+  </p>
+  
+  <img src="Icons/introduction-to-cybersecurity.png" width="100" alt="Introduction to Cybersecurity" title="Introduction to Cybersecurity"/>
+  
+  <h3>Security Specializations</h3>
+  <p>
+    <img src="Icons/Ethical_Hacking.png" width="70" alt="Ethical Hacking" title="Ethical Hacking"/>
+    <img src="Icons/Wireless_Networks_Penetration_Testing.png" width="70" alt="Wireless Networks Penetration Testing" title="Wireless Networks Penetration Testing"/>
+    <img src="Icons/Malware_Analysis_Fundamentals.png" width="70" alt="Malware Analysis Fundamentals" title="Malware Analysis Fundamentals"/>
+    <img src="Icons/Ethical_Hacking_Badge_20_May_2023_95a113c0.png" width="70" alt="Advanced Ethical Hacking" title="Advanced Ethical Hacking"/>
+  </p>
 </div>
 
-<hr>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pop&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pop&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pop&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<!-- Snake animation -->
+![Snake animation](https://github.com/pop/pop/blob/output/github-contribution-grid-snake.svg)
