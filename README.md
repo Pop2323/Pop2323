@@ -97,6 +97,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pop2323&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pop2323&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Pop2323&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 <!-- Snake animation -->
