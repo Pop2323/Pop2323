@@ -31,7 +31,7 @@
 
 <h2 align="center">🛠️ Technology Stack</h2>
 
-<details open>
+<details close>
 <summary align="center">Click to Toggle</summary>
 <br>
 <div align="center">
